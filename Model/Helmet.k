@@ -1,5 +1,5 @@
 $# LS-DYNA Keyword file created by LS-PrePost(R) V4.8.30 - 20Apr2022
-$# Created on Sep-15-2022 (19:26:14)
+$# Created on Sep-19-2022 (11:23:40)
 *KEYWORD
 *PART
 $HWCOLOR COMPS     401      32
